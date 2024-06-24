@@ -1,0 +1,17 @@
+.quantity-btn {
+    border: 2px solid #000;
+    border-radius: 50%; /* This will make the border round */
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: transparent;
+  }
+  
+  .quantity-number {
+    margin: 0 10px; /* Adjust the space between the quantity number and buttons */
+  }
+  
+  .quantity-btn:hover {
+    background-color: #f0f0f0; /* Change the background color on hover if needed */
+  }
+  

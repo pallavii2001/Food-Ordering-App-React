@@ -1,0 +1,15 @@
+
+  .button-container {
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .submit-btn,
+  .close-btn {
+    height: 50px;
+    margin-top: 10px;
+  }
+    .close-btn {
+    margin-right: 10px;
+  }
+  
